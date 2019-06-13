@@ -1,0 +1,8 @@
+row {
+    display: flex;
+  }
+  
+  column {
+    margin: 5%;
+    padding: 1%;
+  }
